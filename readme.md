@@ -6,7 +6,7 @@ K. Książek, M. Romaszewski, P. Głomb, B. Grabowski, M. Cholewa
 
 ## The dataset associated with the source code:
 
-The dataset is available online: https://zenodo.org/deposit/3984905
+The dataset is available online: https://zenodo.org/record/3984905
 
 ## Usage
 
