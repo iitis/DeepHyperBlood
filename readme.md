@@ -1,7 +1,9 @@
 # Description
 
 Source code for replicating experiments in the paper:
-Książek, K.; Romaszewski, M.; Głomb, P.; Grabowski, B.; Cholewa, M. Blood Stain Classification with Hyperspectral Imaging and Deep Neural Networks. Sensors 2020, 20, 6666. 
+Książek, K.; Romaszewski, M.; Głomb, P.; Grabowski, B.; Cholewa, M.
+Blood Stain Classification with Hyperspectral Imaging and Deep Neural Networks.
+Sensors 2020, 20, 6666. 
 https://doi.org/10.3390/s20226666
 
 ## The dataset associated with the source code:
